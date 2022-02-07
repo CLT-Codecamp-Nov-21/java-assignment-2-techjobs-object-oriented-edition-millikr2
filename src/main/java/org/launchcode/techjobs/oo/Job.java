@@ -2,7 +2,7 @@ package org.launchcode.techjobs.oo;
 
 import java.util.Objects;
 
-public class Job extends JobField{
+public class Job {
 
     private final int id;
     private static int nextId = 1;
